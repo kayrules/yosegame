@@ -1,0 +1,4 @@
+
+
+kayrules : Aug 25 10:49:40 : yose : user NOT in sudoers ; TTY=pts/0 ; PWD=/home/yose ; USER=root ; COMMAND=/bin/chown -R yose: Calculator-1/
+
